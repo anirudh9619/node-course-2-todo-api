@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.16.3",
     "mongodb": "^3.0.4",
+    "mongoose": "^5.0.11",
     "nodemailer": "^4.6.3",
     "sendmail": "^1.4.0",
     "update-mongo": "0.0.4"
